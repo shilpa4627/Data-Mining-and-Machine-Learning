@@ -1,0 +1,4 @@
+#requirements to run a code
+pandas
+matplotlib
+seaborn
